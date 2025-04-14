@@ -1,7 +1,7 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Shantnu
 
 🎯 **Operational Risk Analyst** turned **Aspiring Data Analyst**  
-📍 Based in [Your Location] | 💼 10+ years in Banking & Financial Services  
+📍 Based in Bangalore, India | 💼 10+ years in Banking & Financial Services  
 🔍 Passionate about data-driven decision-making, risk analytics, and storytelling with numbers  
 
 ---
@@ -39,8 +39,8 @@
 ---
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/shantnu-sharma/)
+- 📧 Email: shansharma4@gmail.com
 
 ---
 
